@@ -120,5 +120,22 @@ header nav ul li a{
   flex-direction: column;
 }
 
+.main-col-oriz{
+  padding: 40px 20px;
+  position: relative;
+}
+
+.col-container-orizzontale{
+  margin: 0 auto;
+  max-width: 1200px;
+  border: 1px solid gray;
+}
+
+.box-right .blu-button-container{
+  position: absolute;
+  right: 20px;
+  top: 40px;
+}
+
 
 
