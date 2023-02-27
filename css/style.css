@@ -57,6 +57,7 @@ header nav ul li a{
 
 .box-testo .piccolo:first-child{
   padding: 50px 0px 30px 0px;
+  max-width:350px;
 }
 
 .box-testo .piccolo{
