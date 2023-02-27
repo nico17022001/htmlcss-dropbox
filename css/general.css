@@ -1,0 +1,48 @@
+
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: 'Roboto', sans-serif;
+}
+
+h2{
+  font-family: 'Roboto', sans-serif;
+}
+
+.xxlarge{
+  font-size: xx-large;
+}
+
+.d-flex{
+  display: flex;
+}
+
+.section{
+  width: 100%;
+}
+
+.blue-button{
+  background-color: #0061ff;
+  color: white;
+}
+
+.blue-button.small{
+  padding: 5px 15px;
+  text-decoration: none;
+}
+
+.blue-button.big{
+  padding: 8px 30px;
+  text-decoration: none;
+}
+
+.piccolo{
+  width: 400px;
+}
+
+.main-container{
+  padding-top: 150px;
+  width: 1200px;
+  margin: 0 auto;
+}
