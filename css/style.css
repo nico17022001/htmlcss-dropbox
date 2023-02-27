@@ -48,7 +48,6 @@ header nav ul li a{
   flex-direction: column;
   padding-top: 50px;
   margin: 0 auto;
-  
 }
 
 .titolo{
@@ -89,6 +88,37 @@ header nav ul li a{
   margin-top: 50px;
 }
 
+.radio-container{
+  padding-right: 10px;
+}
+
 .checkbox input{
   padding: 0 20px;
 }
+
+.col-container{
+  max-height: 1000px;
+  justify-content: space-between;
+  padding: 40px 0px;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.colonna{
+  height: 900px;
+  width: 30%;
+  flex-direction: column;
+}
+
+.col-title{
+  justify-content: center;
+  padding: 10px 20px;
+}
+
+.col-content{
+  padding: 30px;
+  flex-direction: column;
+}
+
+
+

@@ -33,7 +33,7 @@ h2{
 }
 
 .blue-button.big{
-  padding: 8px 30px;
+  padding: 8px 50px;
   text-decoration: none;
 }
 
@@ -45,4 +45,58 @@ h2{
   padding-top: 150px;
   width: 1200px;
   margin: 0 auto;
+}
+
+.svgsmall{
+  width: 18px;
+  height: 18px;
+}
+
+.svgsmallx{
+  width: 13px;
+  height: 13px;
+}
+
+.gray{
+  color: gray;
+}
+
+.blu-button-container{
+  justify-content: center;
+  align-items: center;
+}
+
+.blue{
+  color: #0061ff;
+  text-decoration: none;
+}
+
+.fblue{
+  fill: #0061ff;
+}
+
+.riga{
+  width: 20%;
+  background-color: gray;
+}
+
+.padding10y{
+  padding: 10px 0px;
+}
+
+.paddingb30{
+  padding-bottom: 30px;
+}
+
+.padding-top50-b10{
+  padding-top: 50px;
+  padding-bottom: 10px;
+}
+
+.padding50y{
+  padding: 50px 0px;
+}
+
+.bordergray{
+  border: 1px solid gray;
 }
