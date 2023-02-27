@@ -41,7 +41,7 @@ header nav ul li a{
   background-color: #b4d0e7;
   flex-direction: column;
   padding-top: 80px;
-  height: 728px;
+  height: 670px;
 }
 
 .alto{
@@ -51,7 +51,7 @@ header nav ul li a{
 }
 
 .titolo{
-  font-size: xxx-large;
+  font-size: xx-large;
   font-family: 'Roboto', sans-serif;
 }
 
@@ -71,14 +71,12 @@ header nav ul li a{
 .box-img{
   max-width: 800px;
   width: 100%;
-  position: relative;
 }
 
 .box-img img{
   width: 100%;
   max-height: 500px;
   padding-top: 50px;
-  position: absolute;
 }
 
 /*Seconda sezione*/
@@ -137,5 +135,23 @@ header nav ul li a{
   top: 40px;
 }
 
+.container-img{
+  max-width: 50%;
+  object-fit: cover;
+  padding-top: 80px;
+}
+
+.container-img img{
+  max-width: 600px;
+}
+
+.container-txt{
+  max-width: 35%;
+  padding: 80px 20px 0px 0px;
+}
+
+.dim-txt{
+  padding-top: 100px;
+}
 
 

@@ -27,6 +27,12 @@ h2{
   color: white;
 }
 
+.different{
+  background-color: white;
+  color: black;
+  border: 1px solid black;
+}
+
 .blue-button.small{
   padding: 5px 15px;
   text-decoration: none;
@@ -88,6 +94,10 @@ h2{
   padding-bottom: 30px;
 }
 
+.paddingt20px{
+  padding-top: 20px;
+}
+
 .padding-top50-b10{
   padding-top: 50px;
   padding-bottom: 10px;
@@ -99,4 +109,17 @@ h2{
 
 .bordergray{
   border: 1px solid gray;
+}
+
+.container{
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.space{
+  justify-content: space-between;
+}
+
+.jleft{
+  justify-content: left;
 }
