@@ -62,6 +62,10 @@ h2{
   height: 18px;
 }
 
+.svgsmalltxt{
+  width: 200px;
+}
+
 .svgsmallx{
   width: 13px;
   height: 13px;
@@ -130,8 +134,9 @@ h2{
 
 .contenitore{
   width: 100%;
-  background-color: aquamarine;
   height: 500px;
+  overflow: hidden;
+  padding-top: 40px;
 }
 
 .space{
@@ -172,6 +177,7 @@ h2{
   align-items: center;
 }
 
+/*Colori sfondo sponsor*/
 .lightgreen{
   background-color: #a2d39b;
 }
@@ -204,13 +210,23 @@ h2{
   background-color: #ffd830;
 }
 
-.img-sponsor{
-  width: 120px;
+.sgrigio{
+  background-color: #f5f5f5;
 }
+
+/*Colori sfondo sponsor*/
+
+.img-sponsor{
+  max-width: 120px;
+  max-height: 120px;
+  min-width: 120px;
+  min-height: 120px;
+}
+
 
 .svgpicoola{
-  width: 160px;
-  height: 50px;
+  min-width: 160px;
+  min-eight: 50px;
 }
 
 
@@ -232,13 +248,4 @@ h2{
 
 
 
-
-
-.orange{
-  background-color: orange;
-}
-
-.purple{
-  background-color: purple;
-}
 

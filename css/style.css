@@ -167,4 +167,10 @@ header nav ul li a{
   height: 500px;
 }
 
+.cont-txt-lungo{
+  padding: 40px;
+  width: 100%;
+  overflow: overlay;
+}
+
 
