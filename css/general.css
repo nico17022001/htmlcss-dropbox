@@ -143,6 +143,10 @@ h2{
   justify-content: space-between;
 }
 
+.spacea{
+  justify-content: space-around;
+}
+
 .jleft{
   justify-content: left;
 }
@@ -229,7 +233,12 @@ h2{
   min-eight: 50px;
 }
 
-
+.lungo{
+  width: 100%;
+  max-height: 300px;
+  background-color: #b4d0e7;
+  align-items: center;
+}
 
 
 
