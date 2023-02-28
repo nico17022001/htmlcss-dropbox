@@ -14,6 +14,10 @@ h2{
   font-size: xx-large;
 }
 
+.xlarge{
+  font-size: x-large;
+}
+
 .d-flex{
   display: flex;
 }
@@ -94,6 +98,10 @@ h2{
   padding-bottom: 30px;
 }
 
+.paddingb100{
+  padding-bottom: 100px;
+}
+
 .paddingt20px{
   padding-top: 20px;
 }
@@ -123,3 +131,28 @@ h2{
 .jleft{
   justify-content: left;
 }
+
+.card{
+  max-width: 350px;
+  width: calc(100% / 3);
+}
+
+.card-img{
+  max-width: 350px;
+}
+
+.underline{
+  text-decoration: underline;
+}
+
+.use-info{
+  justify-content: space-between;
+}
+
+.wrap{
+  flex-wrap: wrap;
+}
+
+
+
+
