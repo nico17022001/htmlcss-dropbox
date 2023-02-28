@@ -32,6 +32,12 @@ header nav ul li a{
   text-decoration: none;
 }
 
+footer{
+  background-color: black;
+  height: 500px;
+  margin-top: 150px;
+}
+
 /*fine header*/
 
 /*Inizio Main*/
@@ -180,5 +186,40 @@ header nav ul li a{
 .lungo a{
   border: none;
 }
+
+/*footer*/
+
+.box-lingua{
+  background-color: black;
+  padding-left: 50px;
+  margin-top: 30px;
+}
+
+.contenitore-footer{
+  padding-top: 100px;
+  display: flex;
+  justify-content: center;
+}
+
+.footer-list{
+  height: 300px;
+  width: 1400px;
+}
+
+.contenitor-lista{
+  width: calc(100% / 4);
+}
+
+
+ul li a{
+  text-decoration: none;
+  color: white;
+}
+
+ul li a:hover{
+  color: #0061ff;
+}
+
+
 
 

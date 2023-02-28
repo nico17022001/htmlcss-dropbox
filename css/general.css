@@ -96,7 +96,13 @@ h2{
 
 .riga{
   width: 20%;
-  background-color: gray;
+  background-color: #acacac;
+}
+
+.rigad{
+  width:8%;
+  position: relative;
+  left: 50px;
 }
 
 .padding10y{
@@ -271,8 +277,21 @@ h2{
   cursor: pointer;
 }
 
+.gray{
+  color: #606060;
+}
 
+.fgray{
+  fill: #606060;
+}
 
+.paddingr3{
+  padding-right: 3px;
+}
+
+.paddingl10{
+  padding-left: 10px;
+}
 
 
 
