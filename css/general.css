@@ -240,6 +240,7 @@ h2{
   max-height: 120px;
   min-width: 120px;
   min-height: 120px;
+  filter: invert(1);
 }
 
 
