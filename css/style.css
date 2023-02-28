@@ -140,6 +140,7 @@ header nav ul li a{
   max-width: 50%;
   object-fit: cover;
   padding-top: 80px;
+  min-width: 600px;
 }
 
 .container-img img{
@@ -153,6 +154,17 @@ header nav ul li a{
 
 .dim-txt{
   padding-top: 100px;
+}
+
+.sponsor-box{
+  width: 30%;
+  height: 500px;
+  display: flex;
+}
+
+.testo-lungo{
+  width: 40%;
+  height: 500px;
 }
 
 

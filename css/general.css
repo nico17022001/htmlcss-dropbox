@@ -81,6 +81,10 @@ h2{
   text-decoration: none;
 }
 
+.bluelink{
+  color:#0061ff ;
+}
+
 .fblue{
   fill: #0061ff;
 }
@@ -124,6 +128,12 @@ h2{
   margin: 0 auto;
 }
 
+.contenitore{
+  width: 100%;
+  background-color: aquamarine;
+  height: 500px;
+}
+
 .space{
   justify-content: space-between;
 }
@@ -135,6 +145,7 @@ h2{
 .card{
   max-width: 350px;
   width: calc(100% / 3);
+  min-width: 300px;
 }
 
 .card-img{
@@ -153,6 +164,65 @@ h2{
   flex-wrap: wrap;
 }
 
+.sponsor{
+  width: calc(100% / 2);
+  height: calc(100% / 2);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.lightgreen{
+  background-color: #a2d39b;
+}
+
+.marrone{
+  background-color: #61082b;
+}
+
+.cobalt{
+  background-color: #0093ce;
+}
+
+.lightred{
+  background-color: #ff1c1c;
+}
+
+.img-sponsor{
+  width: 120px;
+}
+
+.svgpicoola{
+  width: 160px;
+  height: 50px;
+}
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.orange{
+  background-color: orange;
+}
+
+.purple{
+  background-color: purple;
+}
 
