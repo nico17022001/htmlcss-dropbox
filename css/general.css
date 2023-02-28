@@ -18,6 +18,7 @@ h2{
   font-size: x-large;
 }
 
+
 .d-flex{
   display: flex;
 }
@@ -132,6 +133,10 @@ h2{
   margin: 0 auto;
 }
 
+.width1200{
+  width: 1200px;
+}
+
 .contenitore{
   width: 100%;
   height: 500px;
@@ -145,6 +150,10 @@ h2{
 
 .spacea{
   justify-content: space-around;
+}
+
+.spaceb{
+  justify-content: space-between;
 }
 
 .jleft{
@@ -238,6 +247,28 @@ h2{
   max-height: 300px;
   background-color: #b4d0e7;
   align-items: center;
+  margin-bottom: 100px;
+}
+
+.relative{
+  position: relative;
+}
+
+.absolute{
+  position: absolute;
+}
+
+.right50{
+  right: 50px;
+}
+
+.divisore{
+  margin-bottom: 50px;
+  margin-top: 50px;
+}
+
+.cursor{
+  cursor: pointer;
 }
 
 
