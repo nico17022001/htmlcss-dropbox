@@ -27,6 +27,10 @@ header nav ul li:hover{
   border-bottom: 1px solid black;
 }
 
+header nav ul:last-child li:first-child:hover{
+  border-bottom: 1px solid black;
+}
+
 header nav ul li:first-child:hover{
   border: none;
 }
