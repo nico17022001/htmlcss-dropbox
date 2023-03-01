@@ -20,11 +20,19 @@ ul{
 
 header nav ul li{
   margin: 0 10px;
-  padding: 10px;
+  padding: 20px 0px;
 }
 
 header nav ul li:hover{
   border-bottom: 1px solid black;
+}
+
+header nav ul li:first-child:hover{
+  border: none;
+}
+
+header nav ul:last-child li:last-child:hover{
+  border: none;
 }
 
 header nav ul li a{
@@ -59,15 +67,11 @@ footer{
 .titolo{
   font-size: xx-large;
   font-family: 'Roboto', sans-serif;
+  margin-bottom: 40px;
 }
 
 .box-testo .piccolo:first-child{
-  padding: 50px 0px 30px 0px;
   max-width:350px;
-}
-
-.box-testo .piccolo{
-  padding: 20px 0px;
 }
 
 .arrow svg{
@@ -78,12 +82,11 @@ footer{
 .box-img{
   max-width: 800px;
   width: 100%;
+  min-width: 800px;
 }
 
 .box-img img{
   width: 100%;
-  max-height: 500px;
-  padding-top: 50px;
 }
 
 /*Seconda sezione*/

@@ -58,6 +58,18 @@ h2{
   margin: 0 auto;
 }
 
+.marginb10{
+  margin-bottom: 10px;
+}
+
+.marginb20{
+  margin-bottom: 20px;
+}
+
+.marginb30{
+  margin-bottom: 30px;
+}
+
 .svgsmall{
   width: 18px;
   height: 18px;
