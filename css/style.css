@@ -53,14 +53,15 @@ footer{
 }
 
 .hidden-support{
-  background-color:#fafbfa;
+  background-color:#fbfafb;
   position: absolute;
-  bottom: -73px;
+  bottom: -93px;
   font-size: smaller;
+  padding: 10px 0px;
 }
 
 .banner:hover{
-  background-color: #ebebeb;
+  background-color:#ebebeb;
 }
 
 .hidden-support{
