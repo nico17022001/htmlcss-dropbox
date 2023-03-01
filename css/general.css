@@ -56,6 +56,10 @@ h2{
   text-decoration: none;
 }
 
+.border:hover{
+  border: none;
+}
+
 .piccolo{
   width: 400px;
 }
@@ -219,6 +223,11 @@ h2{
   justify-content: center;
   align-items: center;
 }
+
+.border:hover{
+  border: 1 solid black;
+}
+
 
 /*Colori sfondo sponsor*/
 .lightgreen{
