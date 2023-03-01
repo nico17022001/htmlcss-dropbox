@@ -21,15 +21,15 @@ ul{
 
 header nav ul li{
   margin: 0 10px;
-  padding: 20px 0px;
+  padding: 19px 0px;
 }
 
 header nav ul li:hover{
-  border-bottom: 1px solid black;
+  border-bottom: 2px solid black;
 }
 
 header nav ul:last-child li:first-child:hover{
-  border-bottom: 1px solid black;
+  border-bottom: 2px solid black;
   overflow: visible;
 }
 
