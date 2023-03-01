@@ -30,6 +30,7 @@ header nav ul li:hover{
 
 header nav ul:last-child li:first-child:hover{
   border-bottom: 1px solid black;
+  overflow: visible;
 }
 
 header nav ul li:first-child:hover{
@@ -50,6 +51,26 @@ footer{
   height: 500px;
   margin-top: 150px;
 }
+
+.hidden-support{
+  background-color:#fafbfa;
+  position: absolute;
+  bottom: -73px;
+  font-size: smaller;
+}
+
+.banner:hover{
+  background-color: #ebebeb;
+}
+
+.hidden-support{
+  display: none;
+}
+
+.cont-hidden:hover .hidden-support{
+  display: block;
+}
+
 
 /*fine header*/
 
